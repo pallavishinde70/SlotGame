@@ -32,5 +32,4 @@ sym5 sym5 sym2 sym1 sym6
 
 Total wins: 10
 
-- sym8 x3 = 10
-- 
+sym8 x3 = 10
